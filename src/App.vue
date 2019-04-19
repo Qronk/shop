@@ -1,11 +1,11 @@
 <template>
   <div>
     <header-component></header-component>
-    <router-view></router-view>
-    <footer-component></footer-component>
-    <login-modal-component></login-modal-component>
-    <registration-modal-component></registration-modal-component>
-    <checkout-modal-component></checkout-modal-component>
+    <!--<router-view></router-view>-->
+    <!--<footer-component></footer-component>-->
+    <!--<login-modal-component></login-modal-component>-->
+    <!--<registration-modal-component></registration-modal-component>-->
+    <!--<checkout-modal-component></checkout-modal-component>-->
   </div>
 </template>
 

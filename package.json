@@ -9,26 +9,15 @@
     "production": "vue-cli-service build",
     "development": "vue-cli-service build --mode development"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ivanlori/Vuemmerce.git"
-  },
-  "keywords": [
-    "css",
-    "js",
-    "html",
-    "template",
-    "ecommerce",
-    "vuejs",
-    "theme",
-    "responsive"
-  ],
   "license": "MIT",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "babel-runtime": "^6.26.0",
+    "bootstrap": "^4.3.1",
     "bulma": "^0.7.2",
     "firebase": "^5.10.0",
+    "jquery": "^3.4.0",
+    "popper.js": "^1.15.0",
     "vue": "^2.5.21",
     "vue-router": "^3.0.2",
     "vuex": "^3.0.1"
